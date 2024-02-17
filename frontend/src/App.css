@@ -1,0 +1,18 @@
+.app{
+  display: flex;
+}
+
+.textarea{
+  width: 45vw;
+  height: 100vh;
+  padding: 20px;
+  font-size: 1.2rem;
+  outline: none;
+}
+
+.markdown{
+  width: 45vw;
+  height: 100vh;
+  padding: 20px;
+  /* outline: none; */
+}
